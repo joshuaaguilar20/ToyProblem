@@ -1,19 +1,4 @@
-Skip to content
-Search…
-All gists
-Back to GitHub
-New gist
-@joshuaaguilar20 
-@CraigRodrigues CraigRodrigues/toyProblems.js
-Last active 2 years ago • 
-0
-0
- Code  Revisions 2
- 
-<script src="https://gist.github.com/CraigRodrigues/22b9f310bdb6d5eea9f6f15ed34171fb.js"></script>
-  
-Toy Problems #1
- toyProblems.js
+
 /**
  * Given a single input string, write a function that produces all possible anagrams
  * of a string and outputs them as an array. At first, don't worry about
